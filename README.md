@@ -61,3 +61,5 @@ Downloaded data and generated outputs are excluded from Git.
 ## Citation and license
 
 Please cite the accompanying paper; author metadata are in [CITATION.cff](CITATION.cff). The code uses the [MIT license](LICENSE). Data retain their providers’ terms; see [third-party notices](THIRD_PARTY_NOTICES.md).
+
+**AI disclosure:** The original analysis code was written by the authors and subsequently augmented and polished using ChatGPT.
